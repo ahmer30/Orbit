@@ -1,4 +1,4 @@
-# 📱 Student Life Hub (Temporary Name)
+# 📱 Orbit
 
 An all-in-one, holistic daily organizer designed specifically for students to balance academics, physical health, recreation, and spiritual well-being. 
 
