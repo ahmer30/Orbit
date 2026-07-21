@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Orbit</string>
+    <string name="greeting_student">Hello, Student!</string>
+    <string name="manage_orbit">Manage your daily orbit</string>
+    <string name="category_daily">Daily Activity</string>
+    <string name="category_reminders">Reminders</string>
+    <string name="category_prayers">Prayers</string>
+    <string name="category_gym">Gym</string>
+    <string name="category_medicine">Medicine</string>
+    <string name="category_study">Study Materials</string>
+</resources>
